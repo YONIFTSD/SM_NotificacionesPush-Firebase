@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotificacionesPushFirebase</string>
+
+    <string name="news_image">Nuevo</string>
+    <string name="news_title">Titulo</string>
+    <string name="news_summary">Summary</string>
+    <string name="news_action">Enviar Notificación</string>
+</resources>
